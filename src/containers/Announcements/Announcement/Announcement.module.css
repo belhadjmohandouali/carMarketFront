@@ -1,0 +1,9 @@
+.AnnouncementCard {
+    background-color: rgb(255, 255, 255);
+    transition: transform 100ms ease-in-out;
+}
+
+.AnnouncementCard:hover {
+    transform: scale(1.15);
+    z-index: 10;
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: #137C8B;
+  }
+  .AnnouncementCard {
+    background-color: rgb(255, 255, 255);
+    transition: transform 100ms ease-in-out;
+    }
+
+.btnSubmit{
+  color: #ffffff;
+  font-weight: bold;
+  background-color: #137C8B;
+}
+
+.formTitle{
+  color: #ffffff;
+  font-weight: bold;
+}

@@ -1,0 +1,8 @@
+.policeTitre{
+    font-size: 25px;
+    font-family: 'Sigmar One';
+
+}
+.policeTitre:hover{
+    color: rgb(224, 248, 7)!important;
+}

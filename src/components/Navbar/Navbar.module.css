@@ -1,0 +1,21 @@
+.Navbar{
+    background-color: white;
+    border-bottom: 1px solid #137C8B;
+}
+.Img{
+    width: 50px;
+    height: 50px;
+    margin-top: -1px;
+    border-radius: 50%;
+}
+.NavItems {
+    color: #137C8B;
+    cursor: pointer;
+    transition: transform 50ms ease-out;
+}
+
+.NavItems:hover {
+    opacity: 1;
+    color: #137C8B;
+    transform: scale(1.3)
+}
